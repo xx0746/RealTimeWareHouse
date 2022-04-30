@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RealTime" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanCommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanDataCollect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/houduanservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo/springbootregister" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youfanregister" charset="UTF-8" />
+  </component>
+</project>

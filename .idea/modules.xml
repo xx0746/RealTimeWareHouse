@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RealTime/RealTime.iml" filepath="$PROJECT_DIR$/RealTime/RealTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealTimeWareHouse.iml" filepath="$PROJECT_DIR$/RealTimeWareHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YoufanCommon/YoufanCommon.iml" filepath="$PROJECT_DIR$/YoufanCommon/YoufanCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YoufanDataCollect/YoufanDataCollect.iml" filepath="$PROJECT_DIR$/YoufanDataCollect/YoufanDataCollect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YoufanService/YoufanService.iml" filepath="$PROJECT_DIR$/YoufanService/YoufanService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkanaly/flinkanaly.iml" filepath="$PROJECT_DIR$/flinkanaly/flinkanaly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/houduanservice/houduanservice.iml" filepath="$PROJECT_DIR$/houduanservice/houduanservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo/springbootdemo.iml" filepath="$PROJECT_DIR$/springbootdemo/springbootdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo/springbootregister/springbootregister.iml" filepath="$PROJECT_DIR$/springbootdemo/springbootregister/springbootregister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youfanregister/youfanregister.iml" filepath="$PROJECT_DIR$/youfanregister/youfanregister.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+# Project exclude paths
+/flinkanaly/target/
+/houduanservice/target/
+/RealTime/target/
+/springbootdemo/springbootregister/target/
+/springbootdemo/target/
+/YoufanCommon/target/
+/YoufanDataCollect/target/
+/youfanregister/target/
+/YoufanService/target/
